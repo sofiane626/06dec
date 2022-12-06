@@ -45,4 +45,21 @@ nav {
   object-fit: cover;
 }
 
+.section1 {
+  height: 30vh;
+  width: 100%;
+}
+
+.section1-box {
+  width: 70%;
+  height: 60%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
